@@ -1,0 +1,6 @@
+sales_profit_analyzer.db
+__pycache__/
+*.pyc
+.Neo4jDesktop2/
+.cache/
+*.jar

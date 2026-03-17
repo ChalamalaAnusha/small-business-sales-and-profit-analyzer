@@ -1,0 +1,12 @@
+bcrypt==4.0.1
+streamlit
+pandas
+openpyxl
+plotly
+matplotlib
+numpy
+prophet
+cmdstanpy
+scikit-learn
+xlsxwriter
+reportlab
